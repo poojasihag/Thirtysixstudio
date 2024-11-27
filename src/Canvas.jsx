@@ -63,3 +63,4 @@ function Canvas({ details }) {
 }
 
 export default Canvas;
+// 
